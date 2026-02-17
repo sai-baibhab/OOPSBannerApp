@@ -1,10 +1,10 @@
 /**
  * UC4: print OOPS in Banner Format using array
  *
- * @author hk9981
+ * @author sai-baibhab
  * @version 1.0
  */
-public class UC4PrintBanner {
+public class UC4printBanner {
 
     public static void main(String[] args) {
         String[] lines = new String[6];
