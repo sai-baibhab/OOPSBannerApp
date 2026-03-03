@@ -71,7 +71,7 @@ public class BannerApp {
                 " ***** "
         };
 
-        // Create objects
+       
         CharacterPatternMap oPattern =
                 new CharacterPatternMap('O', O);
 
